@@ -1,10 +1,3 @@
-//
-//  MyClass.h
-//  Swift_ObjC
-//
-//  Created by Alvin Meimoun on 06/12/2016.
-//  Copyright © 2016 Supinfo. All rights reserved.
-//
 
 #ifndef MyClass_h
 #define MyClass_h

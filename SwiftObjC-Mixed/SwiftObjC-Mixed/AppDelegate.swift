@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  SwiftObjC-Mixed
-//
-//  Created by Alvin Meimoun on 06/12/2016.
-//  Copyright © 2016 alvinmeimoun. All rights reserved.
-//
 
 import UIKit
 
